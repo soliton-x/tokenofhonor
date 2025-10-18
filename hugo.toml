@@ -4,12 +4,12 @@ title = 'Token of Honor'
 theme = 'PaperMod'
 
 [params]
-  description = "A blog about ideas and principles"
-  author = "Soliton"
+  description = "A personal blog about earning tokens of honor"
+  author = "TOH"
   
 [params.homeInfoParams]
   Title = "Token of Honor"
-  Content = "Writing on philosophy, ideas, and life."
+  Content = "A personal blog about earning tokens of honor"
 
 [[menu.main]]
   name = "Archive"
