@@ -1,0 +1,22 @@
+baseURL = 'https://tokenofhonor.com/'
+languageCode = 'en-us'
+title = 'Token of Honor'
+theme = 'PaperMod'
+
+[params]
+  description = "A blog about ideas and principles"
+  author = "Soliton"
+  
+[params.homeInfoParams]
+  Title = "Token of Honor"
+  Content = "Writing on philosophy, ideas, and life."
+
+[[menu.main]]
+  name = "Archive"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 20
