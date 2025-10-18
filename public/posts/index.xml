@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Token of Honor</title>
+    <link>https://tokenofhonor.com/posts/</link>
+    <description>Recent content in Posts on Token of Honor</description>
+    <generator>Hugo -- 0.151.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Oct 2025 09:48:52 +0200</lastBuildDate>
+    <atom:link href="https://tokenofhonor.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Way of Dhamma</title>
+      <link>https://tokenofhonor.com/posts/the-way-of-dhamma/</link>
+      <pubDate>Sat, 18 Oct 2025 09:48:52 +0200</pubDate>
+      <guid>https://tokenofhonor.com/posts/the-way-of-dhamma/</guid>
+      <description>&lt;p&gt;Earning a Token of Honor by following The way of Dhamma.&lt;/p&gt;
+&lt;h2 id=&#34;drawing-a-line-in-the-sand&#34;&gt;Drawing a line in the sand&lt;/h2&gt;
+&lt;p&gt;Just a test&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bold text&lt;/strong&gt; and &lt;em&gt;italic text&lt;/em&gt; are easy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
