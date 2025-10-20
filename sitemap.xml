@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tokenofhonor.com/about/</loc>
-    <lastmod>2025-10-19T10:13:51+02:00</lastmod>
-  </url><url>
-    <loc>https://tokenofhonor.com/</loc>
-    <lastmod>2025-10-19T10:13:51+02:00</lastmod>
+    <loc>https://tokenofhonor.com/posts/my-first-token-of-honor/</loc>
+    <lastmod>2025-10-20T23:57:55+02:00</lastmod>
   </url><url>
     <loc>https://tokenofhonor.com/posts/</loc>
-    <lastmod>2025-10-18T09:48:52+02:00</lastmod>
+    <lastmod>2025-10-20T23:57:55+02:00</lastmod>
+  </url><url>
+    <loc>https://tokenofhonor.com/</loc>
+    <lastmod>2025-10-20T23:57:55+02:00</lastmod>
+  </url><url>
+    <loc>https://tokenofhonor.com/about/</loc>
+    <lastmod>2025-10-19T10:13:51+02:00</lastmod>
   </url><url>
     <loc>https://tokenofhonor.com/posts/untitled/</loc>
     <lastmod>2025-10-18T09:48:52+02:00</lastmod>
