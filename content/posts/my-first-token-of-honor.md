@@ -4,39 +4,49 @@ draft = false
 title = 'My first Token of Honor'
 +++
 
-This is a complex story to write—and maybe even more difficult to share. If I’m writing it today, it’s for my children, who might one day face similar situations. It’s also for me, a way to remember what I stand for.
+This is a complex story to write—and maybe even more difficult to share. If I’m writing it today, it’s for my children, who might one day face similar situations. 
+It’s also for me, a way to remember what I stand for.
 
 This is the story of how I earned my first token of honor.
 
-I grew up hearing stories of my grandfather’s work ethic, generosity, and repeated betrayals by people he originally helped. Those are still told in my family. These stories, though seemingly petty to some, helped shape my understanding of fairness and honor. 
+I grew up hearing stories of my grandfather’s work ethic, generosity, and repeated betrayals by people he originally helped. Those stories are still told in my family. These stories helped shape my understanding of fairness and honor. 
 
-From an early age, I realized magic was real. Logging onto my computer, playing MMORPGs, exploring the internet—it felt like opening my very own Hogwarts Acceptance Letter.
+From an early age, I was fortunate enough to realize magic was real. Logging onto my computer, playing MMORPGs, exploring the internet—it felt like opening my very own Hogwarts Acceptance Letter.
 
-Next to that magic, the family business was nothing but Number Four, Privet Drive.
+In contrast, the family business was nothing but Number Four, Privet Drive, especially after my grand-father passed away. A place built on inheritance rather than merit, where nepotism overruled all logic. A place where personal growth was always subordinated to someone else’s agenda — ruled by confusion and opacity, where advancement came through personal favor rather than hard work or measurable results.
 
-But still, I often asked myself: was there a place for me there? Can Harry Potter be working alongside Dudley? 
+But still, I often asked myself: was there something for me there? 
+
+Having spent the last 7 years of my life as wizard in Hogwarts, learning magic trick and earning internet money, I thought there was still a world where the Harry Potter and the Dudley of this world could work and build something together. 
 
 I learned the answer the hard way. 
 
 **Choosing between what's right and what's easy**
 
-A few years ago, during COVID, I decided to start an online business selling artisanal food, originally made by the family business. Because of the nature of the product, it was highly seasonal — active only two to three months a year — which made it manageable alongside my client work. 
+A few years ago, during COVID, I decided to start an online business selling artisanal food, manufactured by the family business. Because of the nature of the product, it was highly seasonal — active only two to three months a year — which made it manageable alongside my client work. 
 
-For practical reasons, I partnered with someone to handle logistics, while I'd do all the rest.
+For practical reasons, I partnered with one of my cousin to handle logistics, while I'd do all the rest. As he was working during the day for the family business, it made perfect sense to me to assign him with work he could be doing since he was already on the ground. 
+
 It sounded fair. It sounded balanced. We shook hands on a shared vision I sold to him: within three to five seasons, we’d build a strong brand that could eventually run — and sell — on its own.
 
 The first season, the business made 3k€.
+
 The second season, the business made 25k€.
+
 The third season, the business made 55k€.
 
-But from the beginning, something felt off.
-The balance was wrong — in effort, ambition, and real dedication. 
+But from the beginning, something felt off. 
+The balance was wrong — in risk-taking, effort, ambition, and real dedication. 
 
-I kept running into excuses, low energy, and broken promises. More than once, I found myself coming down late at night or early in the morning to handle the logistics myself. It was clear that my partner was simply not fully invested. Later on, I came to the inevitable realization that this person was simply benefiting from my work and dedication without ever acknowledging it. Partly out of malice or bad faith — but also just because it wasn’t something that existed on his mental map. He just couldn't *see* it. 
+I kept running into excuses, low energy, and broken promises. More than once, I found myself coming down late at night or early in the morning to handle the logistics myself. It was clear that my partner was simply not fully invested. Later on, I came to the inevitable realization that this person was simply benefiting from my work and dedication. Partly out of malice or bad faith — but also just because it wasn’t something that existed on his mental map.
 
-I carried a fire in me, a quiet revenge against life. I was fighting, pushing forward — while he moved softly, already acting he’d already won in life. 
+I was coming from an entrepreneurial background, where you move fast and break things, where you look at data, share feedback, learn on the spot and shoot for the moon. 
+
+I carried a fire in me. I was fighting, pushing forward — while he moved softly, already acting he’d already won in life. 
 
 I was gambling with my finances and my family’s stability, while he remained safely within the comfort of his routine. 
+
+I remained quite and discreet about the business itself, especially in public. In contrast,he spoke the language of winners — the polished rhetoric of a self-made man without the substance behind it. He basically was strutting around, but not pushing forward like a co-founder. 
 
 Season after season — one, two, three — the tension kept building until the clash came. 
 
@@ -85,4 +95,8 @@ My grandfather was venerated by two generations for having built his business on
 
 I, too, was looted in my own way — not of money, but of fairness. 
 
-Yet what remains is what mattered most to him, and now to me: the quiet dignity of having done the right thing, even when it cost me. Something can't be bought, can't be stolen, but must be earned: your honor.
+Yet what will always remains is what mattered most to him, and now to me: the quiet dignity of having done the right thing, even when it cost me. 
+
+Something can't be bought, can't be stolen, but must be earned: your honor.
+
+This is the story of how I earned my first token of honor, the most valuable thing a man can earn. 
