@@ -143,7 +143,7 @@ Valuing my work "fairly"? *Naaaah, too expensive.*
 Drafting a contract that explicitly transfers every single asset I built solo — brand, website, customer list, B2B clients, social media accounts, content, treasury, bank account, you name it — for €0.01? *Hell yeah, let’s go!*
 
 I signed. 
-I immediately felt relived. 
+I immediately felt relieved. 
 
 My grandfather, our grandfather, was venerated by two generations for having built his business on generosity and integrity.
 
