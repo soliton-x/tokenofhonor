@@ -4,20 +4,23 @@ draft = false
 title = 'My first Token of Honor'
 +++
 
-This is a complex story to write—and maybe even more difficult to share. If I’m writing it today, it’s for my children, who might one day face similar situations. 
+This is a complex story to write—and maybe even more difficult to share. I've been thinking a lot about the pros and cons of publishing this story. 
+
+But If I’m writing it today, it’s for my children, who might one day face similar situations. 
 It’s also for me, a way to remember what I stand for.
 
 This is the story of how I earned my first token of honor.
 
-I grew up hearing stories of my grandfather’s work ethic, generosity, and repeated betrayals by people he originally helped. Those stories are still told in my family. These stories helped shape my understanding of fairness and honor. 
+I grew up hearing stories of my grandfather’s work ethic, generosity, and repeated betrayals by people he helped. Those stories are still told in my family. These stories shaped my understanding of fairness and honor. 
 
 From an early age, I was fortunate enough to realize magic was real. Logging onto my computer, playing MMORPGs, exploring the internet—it felt like opening my very own Hogwarts Acceptance Letter.
 
-In contrast, the family business was nothing but Number Four, Privet Drive, especially after my grand-father passed away. A place built on inheritance rather than merit, where nepotism overruled all logic. A place where personal growth was always subordinated to someone else’s agenda — ruled by confusion and opacity, where advancement came through personal favor rather than hard work or measurable results.
+In contrast, the family business was nothing but Number Four, Privet Drive, especially after my grand-father passed away. 
+A place built on inheritance rather than merit, where nepotism overruled all logic. A place where personal growth was always subordinated to someone else’s agenda — ruled by confusion and opacity, where advancement came through personal favor rather than hard work or measurable results.
 
 But still, I often asked myself: was there something for me there? 
 
-Having spent the last 7 years of my life as wizard in Hogwarts, learning magic trick and earning internet money, I thought there was still a world where the Harry Potter and the Dudley of this world could work and build something together. 
+Even though I spent the last 7 years of my life as a wizard in Hogwarts, aka working in tech, having learned magic tricks, earning internet money, .. a part of me wanted to come back to Number Four, Private Drive and try to work with the Dudley's of this world.
 
 I learned the answer the hard way. 
 
@@ -25,51 +28,65 @@ I learned the answer the hard way.
 
 A few years ago, during COVID, I decided to start an online business selling artisanal food, manufactured by the family business. Because of the nature of the product, it was highly seasonal — active only two to three months a year — which made it manageable alongside my client work. 
 
-For practical reasons, I partnered with one of my cousin to handle logistics, while I'd do all the rest. Logistics was indeed a service I could have externalized to a third party company, but I thought it was important to have full control over the customer experience, and optimize the cost. 
+For practical reasons, I partnered with one of my cousin to handle logistics, while I'd do all the rest. I knew from the beginning logistics was something I could have externalized to a third party company. But I thought it was important to have full control over the customer experience, and diminish the cost. 
 
-Since he was working 8AM-4PM for the family business, it made perfect sense to assign him with work he could be doing as he was already on the ground: a few hours in the morning, a few hours in the evening, for 2-3 months every year. 
+Ironically, it cost me my side-business. 
 
-For 50% share in the business, I thought it would incentivize him to give his best.
+Since my then-partner was working 8AM-4PM for the family business, it made perfect sense to assign him with work he could be doing over there, where everything was prepared, as he was already on the ground. It would only request from him a few hours in the morning, a few hours in the evening, for 2-3 months, every year. 
 
-In other words, the deal sounded fair. 
-It sounded balanced. 
-We shook hands on a shared vision I sold him: within three to five seasons, we’d build a strong brand that could eventually run — and sell — on its own.
+I thought that, for 50% share in the business, it would incentivize him to give his best.
 
-The first season, the business made 3k€.
+In other words, the deal sounded fair and balanced.
 
-The second season, the business made 25k€.
+We shook hands on a shared vision I sold him: within three to five seasons, we’d build a strong online brand that could eventually run — and sell — on its own.
 
-The third season, the business made 55k€.
+The first season, the business made 3k€. Every penny was reinvested in growing.
 
-But from the beginning, something felt off.
+The second season, the business made 25k€. Every penny was reinvested in growing.
+
+The third season, the business made 55k€. Every penny was reinvested in growing.
+
+But, even though the business was growing, something felt off from the beginning. 
 
 The balance was wrong — in risk-taking, effort, ambition, and real dedication. 
 
-I kept running into excuses, low energy, and broken promises. 
+More than once, I found myself coming down late at night or early in the morning to handle the logistics myself. I kept running into excuses, low energy, and broken promises.  It was clear that my partner was simply not fully invested. 
 
-More than once, I found myself coming down late at night or early in the morning to handle the logistics myself. It was clear that my partner was simply not fully invested. 
+Later on, it came down to the inevitable conclusion that this person was simply benefiting from my work and dedication, without giving his best for the company to grow faser. 
 
-Later on, I came to the inevitable realization that this person was simply benefiting from my work and dedication. I was focused on growing a tree that would give fruits season after season. It was only about creating long term value, while delivering short term results. 
+I was the only one really focused on growing a tree that would give fruits, season after season.
 
-I'll never know if this attitude was of malice, bad faith, greed, stupidity. The only thing I know is that, in life, you can either see the cake as finite, or infinite. A lot of people see the finite cake: they can't imagine for one second that the cake can grow bigger and bigger. Most of all, they don't realize they can bake their own cake. 
+I was in front of someone unprofessional, and he was my cousin. How was I suppose to deal with that? I accepted excuses, I accepted the apologies, and move on to the next season, hoping for it to be better.
 
-There is an entire generation of young people thinking like the mob. For them, you only win something by taking it from someone else. To get what they want, they're ready to lie, to beg, to ask for favors, to kiss rings. Everything but actual work and sacrifices. 
+Was it out of malice, bad faith, greed, stupidity or lack of education? I don't really know. 
 
-I was coming from an entrepreneurial background, where you move fast and break things, where you look at data, share feedback, learn on the spot and shoot for the moon. 
+Still, I notice there is an entire generation of young people thinking like the mob. 
 
-I carried a fire in me. I was fighting, pushing forward — while he most of the time moved softly, already acting he’d already won in life. 
+For them, you only win something by taking it from someone else. To get what they want, they're ready to lie, to beg, to ask for favors, to kiss rings. Everything but actual work and sacrifices. 
+
+Coming from an entrepreneurial background, where you move fast and break things, where you look at data, share feedback, learn on the spot and shoot for the moon, it's little to say our energy didn't match. 
+
+I carried a fire in me. I was fighting, pushing forward — while he most of the time moved softly.
 
 I was gambling with my finances and my family’s stability, while he remained safely within the comfort of his routine. 
 
-In public, I remained quite and discreet about the business itself. In contrast, he spoke the language of winners — the polished rhetoric of a self-made man without the substance behind it. He was basically strutting around, and I never put a stop to it. 
+I could have dealt with the lack of intensivity, but it came along with something else. 
+
+In public, he spoke the language of winners — he had the rhetoric of a self-made man. He was buying his own story that he was an entrepreneur. He was basically strutting around. I’ve heard words so disturbing, they could make even the deaf bleed from the ears. 
+
+In contrast, I mostly remained quite and discreet about the business itself.
 
 Season after season — one, two, three — the tension kept building until the clash came. 
 
-Out of disgust, and because I wasn’t truly passionate about the product or industry, I gave him the opportunity to take full control of the company. I proposed to sell my shares, even though, in my mind, I had carried most of the weight that brought the business to where it was. 
+Out of disgust, and because I wasn’t truly passionate about the product or industry, I gave him the opportunity to take full control of the company. 
 
-6 months passed, nothing came in, not even the beginning of a proposition. I felt like, on top of everything else, I was now wasting my time. I started ruminating dark thoughts, I became ultra-irritable. 
+I proposed to sell my shares, even though, in my mind, I had carried most of the weight that brought the business to where it was. 
 
-Finally, instead of waiting indefinetely, I came up with 3 offers, all pre-signed by me in advance.
+6 months passed, nothing came in, not even the beginning of a proposal. 
+
+It felt like, on top of everything else, I was now wasting my time. It was devastating to me to just wait.
+
+Finally, instead of waiting indefinetely, I came up with 3 offers, all pre-signed by me in advance. I dropped them on his desk. 
 
 1. The buyout of my shares for 10,000€
 
@@ -85,58 +102,53 @@ Finally, instead of waiting indefinetely, I came up with 3 offers, all pre-signe
 
 **The 1 cent proposal: my first token of honor**
    
-Selling my share for 0.01€. One might ask: who in is right mind would even propose, such a deal?
+Who in is right mind would even propose, such a deal?
 
-I know for sure he wouldn't have proposed me this deal. 
+I'm not naive. I know how most people would fight tooth and nail for their rights. 
 
-I'm not naive. I know how most people think, I know the vast majority of people would not understand.
-
-One might think this was imposed humiliation. But I don't think of it this way. 
-
-In my mind, it comes down to the following philosophy of wealth, largely inspired by Ayn Rand.
+But I saw things differently. Let me explain my thinking:
 
 Money is the material expression of a principle: that when people want to do business together, they must give and receive fair value.
 
-If you don't respect this principle, you're doomed to fail. Only a sick-society, rewarding weakness, can tolerate infringement on this principle.
+If you don't respect this principle, I believe you're doomed to fail, one day or another. Only a sick-society, rewarding weakness, can tolerate infringement on this principle. 
 
 Money is not for freeloaders who demand it through tears, nor for thieves who take it by force.
 
 Long before freeloaders freeload and thieves steal, money has always been born from the mind and effort of an honest person. 
 
-Proposing this deal, I was aware that it would bring me luck, while it would be cursing. 
+True wealth must be created — you must "make money". 
 
-Indeed, true wealth must be created — you must "make money". 
 True wealth can’t be seized, begged for, inherited, shared, stolen, or received as a favor.
 
-The money I left on the table, by not being paid rightfully, would never again generate anything productive.
+I believed the money I was supposedly leaving on the table, by not being paid my fair share, would never again generate anything productive.
 
-Everything bought with unearned money isn’t a tribute to work, but a reproach — not an achievement, but a shame. 
+**Everything bought with unearned money isn’t a tribute to work, but a reproach — not an achievement, but a shame.**
 
-It won’t bring happiness.
+It can't bring happiness. Maybe even the contrary. Who would want this cursed money?
 
-Now, who in his right mind would accept such a cursed deal? Who would accept to impose such a trade to another human being? 
+**To my kids:** Never take part of in an unfair deal, or you'll regret it. Never forget that your honor and integrity will always be worth much more than all the gold in the world. Always choose what's right over what's easy. 
 
-To my kids: never ever be part of an unfair deal. You will be fine paying people what their worth. The value contained in this 0,01€ will always be worth much more than all the gold in the world. 
+Of course, I received another new last minute offer. It was a gesture meant to look fair, but it only gave the illusion of integrity. Why would I accept something that would give a fake peace of mind to someone? You either do it right, or you don't. 
 
-To be honest, I received a new last minute offer, a gesture meant to look fair, but it only gave the illusion of integrity. 
+This offer reminded me of dinners where the bill reveals everyone’s true nature: some pay fully, some never pay, and some pretend to — slipping in a small note just to ease their conscience. This was the same kind of pretense. I dismissed it. 
 
-This offer reminded me of dinners where the bill reveals everyone’s true nature: some pay fully, some never pay, and some pretend to — slipping in a small note just to ease their conscience. This was the same kind of pretense. I refused it.
+**To my kids:** Always pay the bill, in full, and always be the first to pay. Never split the difference. 
 
-To my kids: always pay the full bill, and always be the first to pay. Never split the difference. Never count the pennies. 
+You can probably guess how it ended: of course, we finally settled for 0.01€. 
 
-You can probably guess how it ended: we finally settled for €0.01. In his mind, I believe my ex-partner thinks I'm a crazy dude, when I just didn't want to play hide and seek forever. I have better things to do, my time is counted. 
+Closing the company and starting again from scratch on his own? *Naaaah, too hard.*
 
-I wanted to stop the wheel of misery. Cumulitavely, I invested around 6 to 8 months of my life building this side business. I lost, but I learned. 
-I learned that, once you touch magic, there is no come back from Hogwarts. 
-I learned that shared blood doesn't mean shit. 
-I learned I should have listened to the little voice much earlier in the process.
+Valuing my work "fairly"? *Naaaah, too expensive.*
 
-My grandfather was venerated by two generations for having built his business on generosity and integrity. Though he was often betrayed, I like to think he never lost his sense of honor. 
+Drafting a contract that explicitly transfers every single asset I built solo — brand, website, customer list, B2B clients, social media accounts, content, treasury, bank account, you name it — for €0.01? *Hell yeah, let’s go!*
 
-I, too, was looted in my own way — not only of money, but of fairness. 
+I signed. 
+I immediately felt relived. 
 
-Yet what will always remains is what mattered most to him, and now to me: the quiet dignity of having done the right thing, even when it cost me. 
+My grandfather, our grandfather, was venerated by two generations for having built his business on generosity and integrity.
 
-**Something can't be bought, can't be stolen, but must be earned: your honor.**
+Like my grandfather, I was looted in my own way — not only of money, but of fairness. 
+
+Yet what will always remains is what probably mattered most to him, and now to me: the dignity of having done the right thing.
 
 This is the story of how I earned my first token of honor, the most valuable thing a man can earn. 
