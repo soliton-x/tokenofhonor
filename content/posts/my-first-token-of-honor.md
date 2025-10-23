@@ -83,7 +83,7 @@ I was gambling with my finances and my family’s stability, while he remained s
 
 Of course, I could have dealt with the lack of intensivity, but sadly it came along with something else. Something much worse: status seeking. 
 
-In public, he spoke the language of winners and had the rhetoric of a self-made man. In think he was buying his own story that he was some kind of a risk-taker entrepreneurial individual. He was building his empire, "taking revenge against life". Everything in his work involvement was superficial, but he was strutting around, trying to impress others. 
+In public, he spoke the language of winners and had the rhetoric of a self-made man. I think he was buying his own story that he was some kind of a risk-taker entrepreneurial individual. He was building his empire, "taking revenge against life". Everything in his work involvement was superficial, but he was strutting around, trying to impress others. 
 
 You see, in those three years, I’ve heard words so disturbing they could make even the deaf bleed from the ears. 
 
