@@ -166,7 +166,7 @@ You can probably guess how it ended: of course, we finally settled for 0.01€.
 
 **To my kids:** Always pay the bill, in full, and always be the first to pay. Never split the difference. You'll see a lot of people eating at your table, taking advantage of your generosity. This is part of life, but you have to make a choice. So few of us have made the conscious choice of living like Lords, instead of pigs. Don't be fooled: you don't have to be rich to live like a Lord. You just have to be *brutally* fair, and resist the corruption of the pigs. 
 
-So from all the options, he went villainy. 
+So from all the options, he went with the easiest one.
 
 Closing the company and starting again from scratch on his own? *Naaaah, too hard.*
 
@@ -177,11 +177,11 @@ Drafting a contract that explicitly transfers every single asset I built solo �
 I signed. 
 I immediately felt relieved.
 
-I'm one of the last Lords, I'm confident in my ability to start over again and again and again until works.
+I'm one of the last Lords, I'm confident in my ability to start over again and again and again until it works.
 
 My place was never at Number Four, Private Drive. 
 
-our common grandfather, was venerated by two generations for having built his business on generosity and integrity, spoiling everyone around him. 
+Our common grandfather was venerated by two generations for having built his business on generosity and integrity, spoiling everyone around him. 
 
 Like my grandfather, I was looted — not only of money, but of fairness. 
 
