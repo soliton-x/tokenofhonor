@@ -1,6 +1,6 @@
 +++
 date = '2025-11-12T22:26:28+01:00'
-draft = true
+draft = false
 title = 'The Raging Torrent'
 +++
 
@@ -13,4 +13,9 @@ None calls it violent.”
 FR: "On parle toujours de la violence du fleuve,
 jamais de celle des berges qui l'enserrent."
 
-Bertolt Brecht
+A few times per year, I'm reminded of this quote from Bertolt Brecht.
+
+What is the river-bed constraining my torrent?
+
+
+
